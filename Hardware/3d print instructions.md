@@ -1,5 +1,6 @@
 Instructions for 3D printing the parts:
 
+See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RGCmc/edit?usp=sharing for images for these steps.
 
 **SET-UP AND PREPARATION**
 1) Go to Lili's Protolab and look at this Github repository. Look at the .jpg file in the results section for a picture of the gearbox you will make.
@@ -15,7 +16,7 @@ Instructions for 3D printing the parts:
      - Open the Prusa Slicer application.
      - Import the .step files into the Prusa Slicer application.
   
-6) Opening all the files together will lead to an assembled gear box, see image 1 in the google doc called images in the Images file. To print the parts, you will need to separate them.
+6) Opening all the files together will lead to an assembled gear box, see image 1 in the google doc. To print the parts, you will need to separate them.
 
 
 **SEPARATING THE PARTS AND PREPARING THEM FOR PRINTING**
