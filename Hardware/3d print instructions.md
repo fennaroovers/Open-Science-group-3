@@ -1,4 +1,4 @@
-Instructions for 3D printing the parts:
+**Instructions for 3D printing the parts:**
 
 See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RGCmc/edit?usp=sharing for images for these steps.
 
