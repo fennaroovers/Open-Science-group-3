@@ -1,7 +1,7 @@
 Instructions for 3D printing the parts:
 
 
-SET-UP AND PREPARATION
+**SET-UP AND PREPARATION**
 1) Go to Lili's Protolab and look at this Github repository. Look at the .jpg file in the results section for a picture of the gearbox you will make.
 
 2) Access one of the '3D printer control' computers.
@@ -17,7 +17,8 @@ SET-UP AND PREPARATION
   
 6) Opening all the files together will lead to an assembled gear box, see image 1 in the google doc called images in the Images file. To print the parts, you will need to separate them.
 
-SEPARATING THE PARTS AND PREPARING THEM FOR PRINTING
+
+**SEPARATING THE PARTS AND PREPARING THEM FOR PRINTING**
 1) Select the part you want to move on the right panel. The part you have selected will be highlighted. See image 2 and 3.
 
 2) Move the selected part to another place. Repeat until all pieces are separated. See image 4.
