@@ -35,4 +35,7 @@ SEPARATING THE PARTS AND PREPARING THEM FOR PRINTING
    - For the result see image 10.
   
 5) Slicing
-   - 
+   - Switch to the slicing tab by clicking the icon of the sliced box in the lower left corner. See image 11.
+   - Select the 'brim' option in the menu in the upper right corner to avoid tall and small pieces from bending. See image 12.
+   - Click on 'slice now' in the bottom right. See image 13.
+   - For the result see image 14.
