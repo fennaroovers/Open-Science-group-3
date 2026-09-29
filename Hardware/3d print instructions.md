@@ -56,6 +56,9 @@ See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RG
 
 7) The printer should receive the file and download it. See image 19. 
 
-8) The printer will calibrate. Once the calibration is done, the printer will start printing. Keep an eye on the printer during the process to make sure everything is printed correctly. See image 20. [We selected the brim option, so our pieces look slightly different than yours should look like. The little layer around the pieces should not be there for you.]
+8) The printer will calibrate. Once the calibration is done, the printer will start printing. Keep an eye on the printer during the process to make sure everything is printed correctly. See image 20 and 21. [We selected the brim option, so our pieces look slightly different than yours should look like. The little layer around the pieces should not be there for you.]
 
-9) 
+**FINISHING THE PRINTING**
+1) Once the printer is done we need to take the pieces off. Take the plate off the printer, hold it on both sides and slightly bend it to separate the pieces from the plate. Use the blue piece to get them off. See image 22.
+
+2) Now you have your finished 3d printed parts.
