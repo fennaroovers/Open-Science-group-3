@@ -23,9 +23,7 @@ _In this subfolder you can describe the hardware involved in this prototype. Inc
 - Spinning plate for test
 
 ## Build instructions
-_for complex instructions, cut it down into overarching build steps here and [link](detailed_instructions) to the detailed documents_
-
+GENERAL (VAGUE) INSTRUCTION:
 3D print the gears using a suitable filament that can withstand friction and temperature. Mount the gears on shafts and interlock them with each other. Assemble the gear box. Power the motor using a power supply. A breadboard can help control power using resistors. The motor output slips which you can reduce with a 3D printed cover. This allows it to apply force to different materials or objects. 
 
-Instructions for the printing: 
-[link](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Hardware/3d%20print%20instructions.md)
+DETAILED INSTRUCTIONS FOR THE PRINTING: [link](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Hardware/3d%20print%20instructions.md)
