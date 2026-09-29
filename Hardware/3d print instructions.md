@@ -14,3 +14,8 @@ SET-UP AND PREPARATION
      - Download the .step files from the hardware folder.
      - Open the Prusa Slicer application.
      - Import the .step files into the Prusa Slicer application.
+  
+6) Opening all the files together will lead to an assembled gear box. To print the parts, you will need to separate them.
+
+SEPARATING THE PARTS AND PREPARING THEM FOR PRINTING
+1) 
