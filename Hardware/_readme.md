@@ -28,4 +28,4 @@ _for complex instructions, cut it down into overarching build steps here and [li
 3D print the gears using a suitable filament that can withstand friction and temperature. Mount the gears on shafts and interlock them with each other. Assemble the gear box. Power the motor using a power supply. A breadboard can help control power using resistors. The motor output slips which you can reduce with a 3D printed cover. This allows it to apply force to different materials or objects. 
 
 Instructions for the printing: 
-[link](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Hardware/Printing%20instructions)   
+[link](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Hardware/3d%20print%20instructions.md)
