@@ -40,3 +40,22 @@ Instructions for 3D printing the parts:
    - Select the 'brim' option in the menu in the upper right corner to avoid tall and small pieces from bending. See image 12.
    - Click on 'slice now' in the bottom right. See image 13.
    - For the result see image 14.
+  
+**PREPARING THE PRINTER**
+1) Choose the print settings. You should use half the printer nozzle, i.e. if the printer nozzle is 0.4 you should choose 0.2. See image 15.
+
+2) Choose the PLA filament. The colour does not matter. See image 16.
+
+3) Choose one of the printers with a 0.4 nozzle. See image 17.
+
+4) Load the filament you want into the printer you have chosen.
+
+5) Send the printing instructions to the printer by clicking 'Send to connect'. See image 18.
+
+6) Select the printer where you loaded the filament. See image 19A & 19B.
+
+7) The printer should receive the file and download it. See image 20. 
+
+8) The printer will calibrate. Once the calibration is done, the printer will start printing. Keep an eye on the printer during the process to make sure everything is printed correctly. See image 21.
+
+9) 
