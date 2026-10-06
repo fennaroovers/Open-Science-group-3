@@ -1,7 +1,5 @@
 **Instructions for 3D printing the parts:**
 
-See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RGCmc/edit?usp=sharing for images for these steps.
-
 **SET-UP AND PREPARATION**
 1) Go to Lili's Protolab and look at this Github repository. Look at the .jpg file in the results section for a picture of the gearbox you will make.
 
