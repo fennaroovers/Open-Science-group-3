@@ -16,7 +16,7 @@
 
 ![image 4](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Images%20testing/Image%204.png)
 
-5) Open Arduino IDL software and compile this code to the board. This code will show in the serial monitor the rpm at which the wheel is spinning.
+5) Download the Arduino IDL software, open it and compile this code to the board. This code will show in the serial monitor the rpm at which the wheel is spinning.
 
 int quarter_revolutions;
 
