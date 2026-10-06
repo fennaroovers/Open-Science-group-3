@@ -18,6 +18,7 @@ See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RG
   
 6) Opening all the files together will lead to an assembled gear box, see image 1 in the google doc. To print the parts, you will need to separate them.
    ![image 1](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%201.png)
+   <img src="[https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%201.png]" width="100" height="100">
 
 
 **SEPARATING THE PARTS AND PREPARING THEM FOR PRINTING**
