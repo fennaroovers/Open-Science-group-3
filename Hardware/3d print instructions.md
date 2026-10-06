@@ -63,7 +63,13 @@ See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RG
   
 6) Slicing
    - Switch to the slicing tab by clicking the icon of the sliced box in the lower left corner. See image 11.
+
+      ![image 11](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%2011.png)
+   
    - Click on 'slice now' in the bottom right. See image 12.
+
+ ![image 12](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%2012.png)
+   
    - For the result see image 13.
   
 **PREPARING THE PRINTER**
