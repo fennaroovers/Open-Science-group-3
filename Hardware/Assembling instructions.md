@@ -33,43 +33,42 @@ At this stage, it is useful to keep several different washers available. You may
 
 **Step 3 — Prepare the First Side Plate**
 
-Take one of the two orange 3D-printed side plates and place it flat on the working surface.
-Insert the screws/shafts that will support the gears and connect the two sides of the gearbox. Use the reference pictures carefully to determine the correct holes and orientation.
-Check that each shaft is reasonably straight and perpendicular to the side plate.
-This is important because poor shaft alignment can cause the gears to sit at an angle, resulting in unnecessary friction or even preventing the gearbox from rotating.
-Do not fully tighten everything yet. Keeping the assembly slightly adjustable will make it easier to correct the gear alignment later.
+- Take one of the two orange 3D-printed side plates and place it flat on the working surface.
+- Insert the screws/shafts that will support the gears and connect the two sides of the gearbox. Use the reference pictures carefully to determine the correct holes and orientation.
+- Check that each shaft is reasonably straight and perpendicular to the side plate.
+- This is important because poor shaft alignment can cause the gears to sit at an angle, resulting in unnecessary friction or even preventing the gearbox from rotating.
+- Do not fully tighten everything yet. Keeping the assembly slightly adjustable will make it easier to correct the gear alignment later.
 
 **Step 4 — Install the First Compound Gear**
 
-Place the first compound gear onto its corresponding shaft, following the orientation shown in the reference pictures.
-Make sure that the gear can rotate freely around its shaft.
-Do not force a gear onto a shaft. If it does not rotate properly, inspect the hole and shaft for excess printed material or incorrect alignment before continuing.
-At this point, you can also begin experimenting with washers if the gear is rubbing directly against the side plate.
+- Place the first compound gear onto its corresponding shaft, following the orientation shown in the reference pictures.
+- Make sure that the gear can rotate freely around its shaft.
+- Do not force a gear onto a shaft. If it does not rotate properly, inspect the hole and shaft for excess printed material or incorrect alignment before continuing.
+- At this point, you can also begin experimenting with washers if the gear is rubbing directly against the side plate.
 
 **Step 5 — Install the Remaining Gears in the Correct Order**
 
-Continue installing the remaining gears one by one.
-This is one of the most important stages of the entire assembly.
-Pay close attention to the reference pictures to determine which gear is installed first, second, third, and so on. The large and small sections of the compound gears must be positioned correctly so that each gear meshes with the next stage.
-The purpose of this arrangement is to transfer the rotational motion through the complete gear train. Therefore, an incorrectly positioned or reversed gear can prevent the entire gearbox from operating.
-After installing each gear, rotate the mechanism manually.
-Do not wait until the gearbox is completely assembled before checking whether the gears move. Testing after every new gear makes it much easier to identify where a problem was introduced.
+- Continue installing the remaining gears one by one. This is one of the most important stages of the entire assembly.
+- Pay close attention to the reference pictures to determine which gear is installed first, second, third, and so on. The large and small sections of the compound gears must be positioned correctly so that each gear meshes with the next stage.
+- The purpose of this arrangement is to transfer the rotational motion through the complete gear train. Therefore, an incorrectly positioned or reversed gear can prevent the entire gearbox from operating.
+- After installing each gear, rotate the mechanism manually.
+- Do not wait until the gearbox is completely assembled before checking whether the gears move. Testing after every new gear makes it much easier to identify where a problem was introduced.
 
 **Step 6 — Adjust the Gear Spacing with Washers**
 
-Correct spacing between the gears is extremely important.
-Because the gearbox components are 3D printed, small dimensional variations between prints are normal. For this reason, the ideal washer arrangement may need to be determined experimentally rather than following one fixed configuration.
-Washers can be placed between gears or between a gear and the gearbox side plate to adjust the axial position of each component.
-You can experiment with different washers available in the laboratory, including:
-- plastic washers, which can provide spacing with relatively low friction,
-- metal washers, which can provide more rigid and precise spacing.
-Try different configurations and rotate the gears manually after each adjustment.
-The objective is to achieve a configuration where the gears:
-- mesh correctly,
-- rotate freely,
-- do not rub excessively against each other or the side plates,
-- and do not have excessive lateral movement.
-Do not simply add as many washers as possible. Too much spacing can be just as problematic as too little spacing because the gears may no longer align correctly.
+- Correct spacing between the gears is extremely important.
+- Because the gearbox components are 3D printed, small dimensional variations between prints are normal. For this reason, the ideal washer arrangement may need to be determined experimentally rather than following one fixed configuration.
+- Washers can be placed between gears or between a gear and the gearbox side plate to adjust the axial position of each component.
+- You can experiment with different washers available in the laboratory, including:
+    - plastic washers, which can provide spacing with relatively low friction,
+    - metal washers, which can provide more rigid and precise spacing.
+- Try different configurations and rotate the gears manually after each adjustment.
+- The objective is to achieve a configuration where the gears:
+    - mesh correctly,
+    - rotate freely,
+    - do not rub excessively against each other or the side plates,
+    - and do not have excessive lateral movement.
+- Do not simply add as many washers as possible. Too much spacing can be just as problematic as too little spacing because the gears may no longer align correctly.
 
 **Step 7 — Check the Complete Gear Train**
 
