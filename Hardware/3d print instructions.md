@@ -17,7 +17,7 @@ See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RG
      - Import the .step files into the Prusa Slicer application.
   
 6) Opening all the files together will lead to an assembled gear box, see image 1 in the google doc. To print the parts, you will need to separate them.
-   ![image 1](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%201.png =100x100)
+   ![image 1](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%201.png)
 
 
 
