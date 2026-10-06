@@ -17,16 +17,20 @@ See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RG
      - Import the .step files into the Prusa Slicer application.
   
 6) Opening all the files together will lead to an assembled gear box, see image 1 in the google doc. To print the parts, you will need to separate them.
+
    ![image 1](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%201.png)
 
 
 
 **SEPARATING THE PARTS AND PREPARING THEM FOR PRINTING**
 1) Select the part you want to move on the right panel. The part you have selected will be highlighted. See image 2 and 3.
+
     ![image 2](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%202.png)
+    
     ![image 3](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%203.png)
    
 2) Move the selected part to another place. Repeat until all pieces are separated. See image 4.
+
       ![image 4](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%204.png)
 
 4) Reorient the top
