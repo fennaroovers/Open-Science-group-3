@@ -28,4 +28,6 @@ GENERAL (VAGUE) INSTRUCTION:
 
 DETAILED INSTRUCTIONS FOR THE PRINTING: [link](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Hardware/3d%20print%20instructions.md)
 
-DETAILED INSTRUCTION FOR THE ASSEMBLING: [link](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Hardware/Assembling%20instructions.md)
+DETAILED INSTRUCTIONS FOR THE ASSEMBLING: [link](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Hardware/Assembling%20instructions.md)
+
+DETAILED INSTRUCTIONS FOR THE TESTING: [link](https://github.com/fennaroovers/Open-Science-group-3/blob/main/Hardware/Testing%20instructions.md)
