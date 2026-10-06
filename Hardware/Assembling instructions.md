@@ -13,9 +13,7 @@ Make sure you have all the main printed components, including:
 - the compound gears,
 - the small motor pinion gear,
 - the output gear/shaft components,
-- the printed spacers,
 - and any other printed structural parts required for the assembly.
-Do not start assembling the gearbox until you are confident that all the necessary printed parts are available.
 
 **Step 2 — Collect the Additional Hardware**
 
@@ -25,9 +23,8 @@ These include:
 - screws,
 - nuts,
 - washers,
-- additional spacers if required,
+- spacers if required,
 - the DC motor,
-- and the electrical leads required for testing the motor.
 The motor is an essential part of the system, so make sure you have the appropriate motor before completing the gearbox.
 At this stage, it is useful to keep several different washers available. You may need to experiment with their thickness and material later to obtain the correct gear spacing.
 
