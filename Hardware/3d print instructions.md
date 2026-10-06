@@ -110,6 +110,8 @@
 **FINISHING THE PRINTING**
 1) Once the printer is done we need to take the pieces off. Take the plate off the printer, hold it on both sides and slightly bend it to separate the pieces from the plate. Use the blue piece to get them off. 
 
- ![image 22](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%2022.png)
+![image 22](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%2022.png)
 
 2) Now you have your finished 3d printed parts.
+
+![image 23](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%2023.png)
