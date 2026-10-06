@@ -1,3 +1,5 @@
+**PLEASE GO THE README FILE IN THE HARDWARE FOLDER TO FIND LINKS TO THE DETAILED INSTRUCTIONS**
+
 # Open Hardware Documentation Challenge
 
 This repository presents a small hardware project for the course Open Science for Physicists (NS-PH500M) at Utrecht University. The goal of this repository is to be a starting place for all students to find the basic documentation which they can then use the template to build up. Update it regularly and as you make choices to make it useful for the next set of students who will have to recreate your project (hopefully with better documentation). 
