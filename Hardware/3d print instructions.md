@@ -46,11 +46,11 @@ See https://docs.google.com/document/d/1-GjRW9t_lO3OA3edkJQFF2rTSdLy9kpxNY2M47RG
    
    - Select the upper face. See image 7.
    
-         ![image 7](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%207.png)
+      ![image 7](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%207.png)  
     
    - For the result see image 8.
 
-        ![image 8](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%208.png)
+      ![image 8](https://github.com/fennaroovers/Open-Science-group-3/blob/main/images/Image%208.png)
   
 5) Reorient the Gear V2 (see image 9)
 
