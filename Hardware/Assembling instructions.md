@@ -13,7 +13,8 @@
    - 2 shafts
    - 2 shorts screws matching the diameter of the motor holes
    - a motor
-   If any of these are unclear go to the next steps and first see what you will do with them and then look for the right pieces again.
+   
+If any of these are unclear go to the next steps and first see what you will do with them and then look for the right pieces again.
 
 3) Screw the motor into the lower plate
 
